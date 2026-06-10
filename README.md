@@ -26,3 +26,5 @@ Since E.Octavio brutally trained his troops, your weapon's efficiency is greatly
 The mod's stage 1 is set to release in the end of June, i hope to release it sooner.
 I'll link my website so you can see my other mods as well as early builds of SPUF.
 My website: https://noobiedoesmodding.github.io/noobiemods.github.io/
+I won't put the files in here since it would probably be considered as piracy, i'll upload them only if the mod is above 1GB in size, which is rare for a mod.
+here's the gamebanana page of the mod: https://gamebanana.com/projects/37392
